@@ -4,7 +4,7 @@
 
 ***
 
-se-mean
+Standard Error of the mean to measure accuracy with which a sample represents a population
 
 ***
 
@@ -19,16 +19,17 @@ npm install --save se-mean
 ## Usage
 
 ``` js
-/* se-mean */
+var seMean = require('se-mean')
+var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+console.log(seMean(arr))
 ```
 
 ***
 
 ## API
 
-### `se-mean`
-
-se-mean
+### `se-mean(arr)`
 
 ***
 

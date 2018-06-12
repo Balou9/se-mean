@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Balou9/se-mean#readme",
   "devDependencies": {
     "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "sdeviate": "0.0.0",
+    "varianc": "0.0.0"
   }
 }

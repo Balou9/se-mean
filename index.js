@@ -1,4 +1,4 @@
-var sdeviate = require('./sdeviate/index.js')
+var sdeviate = require('sdeviate')
 
 function seMean (arr) {
   return sdeviate(arr) / Math.sqrt(arr.length)
