@@ -1,0 +1,22 @@
+{
+  "name": "se-mean",
+  "version": "0.0.0",
+  "description": "Calculates standard error to the mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balou9/se-mean.git"
+  },
+  "author": "Emmanuel Owosekun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Balou9/se-mean/issues"
+  },
+  "homepage": "https://github.com/Balou9/se-mean#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
